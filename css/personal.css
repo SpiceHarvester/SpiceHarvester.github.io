@@ -1,0 +1,21 @@
+h1 {text-align: center;
+    color: darkgoldenrod;
+}
+
+table, th, td {
+    border: 2px solid rgb(137, 16, 16);
+    border-collapse: collapse;
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(137, 16, 16);
+    padding: 10px;
+    text-align: center;  
+}
+
+body {background-color: rgb(0, 0, 0);}
+
